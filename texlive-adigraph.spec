@@ -1,6 +1,6 @@
 Name:		texlive-adigraph
 Version:	49862
-Release:	1
+Release:	2
 Summary:	Augmenting directed graphs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/adigraph
