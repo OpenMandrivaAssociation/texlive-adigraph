@@ -3,7 +3,7 @@ Version:	70422
 Release:	1
 Summary:	Augmenting directed graphs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/adigraph
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/adigraph
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adigraph.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/adigraph.doc.r%{version}.tar.xz
